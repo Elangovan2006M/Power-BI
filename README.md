@@ -26,8 +26,6 @@ This project analyzes customer churn data to identify why customers leave and ho
 ![Services](screenshots/page9.png)
 *Breakdown of internet services, tech support tickets, and payment methods.*
 
-*(Note: Images above are placeholders. See "How to Add Screenshots" below to make them visible.)*
-
 ## 🔑 Key Insights
 * **Overall Churn Rate:** 26.54% (1,869 customers lost).
 * **Contract Type:** Customers on **Month-to-Month** contracts have the highest churn rate at **42.71%**, while Two-Year contract holders churn least.
